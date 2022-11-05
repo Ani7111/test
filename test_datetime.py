@@ -3,10 +3,8 @@ from datetime import *
 
 
 
-print(datetime.today())
-
-r = date.today()
-print(r)
+y = datetime.today()
+print(y.year)
 '''
 6 Class - 1.date 2.time 3.datetime 4.tzinfo 5.timezone 6.timedelta 
 '''
