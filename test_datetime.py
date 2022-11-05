@@ -1,10 +1,9 @@
 import datetime
 from datetime import *
 
-
-
-y = datetime.today()
-print(y.year)
+today_ = datetime.today()
+print(today_.year)
+print(today_.day)
 '''
 6 Class - 1.date 2.time 3.datetime 4.tzinfo 5.timezone 6.timedelta 
 '''
